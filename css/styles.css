@@ -178,6 +178,10 @@ body {
   gap: 24px;
 }
 
+.features-item {
+  width: calc((100% - 72px) / 4);
+}
+
 .title-features {
   margin-top: 0;
   margin-bottom: 8px;
